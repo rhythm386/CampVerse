@@ -62,6 +62,13 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        campverse: {
+          pink: "#E838CC",
+          purple: "#9333EA",
+          "purple-light": "#A855F7",
+          "blue-light": "#3B82F6",
+          cyan: "#06B6D4",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
