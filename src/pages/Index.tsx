@@ -24,22 +24,7 @@ const Index = () => {
             Join thousands of students and clubs already using CampVerse to
             streamline their campus activities.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <Button
-              size="lg"
-              className="bg-gradient-to-r from-campverse-pink to-campverse-purple hover:from-campverse-pink/90 hover:to-campverse-purple/90 text-lg px-8 py-6"
-            >
-              Get Started Free
-              <ArrowRight className="ml-2 h-5 w-5" />
-            </Button>
-            <Button
-              variant="outline"
-              size="lg"
-              className="border-white/20 text-white hover:bg-white/10 text-lg px-8 py-6"
-            >
-              Schedule Demo
-            </Button>
-          </div>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center" />
         </div>
       </section>
 
