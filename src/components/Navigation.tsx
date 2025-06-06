@@ -36,17 +36,7 @@ const Navigation = () => {
             ))}
           </div>
 
-          <div className="flex items-center space-x-4">
-            <Button
-              variant="outline"
-              className="border-white/20 text-white hover:bg-white/10"
-            >
-              Sign In
-            </Button>
-            <Button className="bg-gradient-to-r from-campverse-pink to-campverse-purple hover:from-campverse-pink/90 hover:to-campverse-purple/90">
-              Get Started
-            </Button>
-          </div>
+          <div className="flex items-center space-x-4" />
         </div>
       </div>
     </nav>
